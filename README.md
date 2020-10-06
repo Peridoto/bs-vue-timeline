@@ -1,4 +1,4 @@
-# Bootstrap-Vue Timeline v0.1.4
+# Bootstrap-Vue Timeline v0.1.4 n- URL IMG version
 
 [![GitHub issues](https://img.shields.io/github/issues/x10sv/bs-vue-timeline.svg?style=flat-square)](https://github.com/x10sv/bs-vue-timeline/issues) [![GitHub license](https://img.shields.io/github/license/x10sv/bs-vue-timeline.svg?style=flat-square)](https://github.com/x10sv/bs-vue-timeline/blob/master/LICENSE)
 
