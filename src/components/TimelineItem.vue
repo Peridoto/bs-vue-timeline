@@ -17,7 +17,7 @@
       order="1"
       class="timeline-image d-flex justify-content-center mx-md-4"
     >
-      <img v-bind:src="'img/' + itemTimeline.image" :alt="itemTimeline.title">
+      <img v-bind:src="itemTimeline.image" :alt="itemTimeline.title">
     </b-col>
     <b-col
       cols="9"
